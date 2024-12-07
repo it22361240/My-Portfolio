@@ -42,9 +42,9 @@ export default function About() {
         </h2>
         <h3 className="text-xl mb-4 text-gray-300">UI/UX Designer</h3>
         <p className="text-gray-300 mb-6 text-sm sm:text-base">
-          I'm Navin, a passionate and self-motivated undergraduate student specializing in UI/UX design
+          I&apos;m Navin, a passionate and self-motivated undergraduate student specializing in UI/UX design
           and frontend development. I thrive on solving problems and creating intuitive user experiences, 
-          combining my deep foundation in both design principles and coding. I'm eager to contribute to
+          combining my deep foundation in both design principles and coding. I&apos;m eager to contribute to
           innovative projects and grow in the tech industry.
         </p>
         <button className="bg-cyan-400 text-black px-8 py-3 rounded-full hover:bg-cyan-500 transition-all duration-300">
