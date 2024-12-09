@@ -93,6 +93,26 @@ const Projects: FC = () => {
             <p className="text-gray-400">(MERN Stack)</p>
           </div>
         </a>
+        <a
+          href="https://www.figma.com/design/9UZHeUANRQXBfu6ah9VGce/Intern?node-id=8-61&t=sMqUrelGTpvNUBpN-1"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-[#242424] rounded-lg overflow-hidden shadow-lg hover:shadow-cyan-400 transition-shadow duration-300 group"
+        >
+          <Image
+            src="/project5.png"
+            alt="Courier Service Web App"
+            width={500}
+            height={900}
+            className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
+          />
+          <div className="p-6">
+            <h3 className="text-2xl font-semibold mb-2 group-hover:text-cyan-400 transition-colors duration-300">
+              Event booking and management app
+            </h3>
+            <p className="text-gray-400">(Figma Design)</p>
+          </div>
+        </a>
       </div>
     </section>
   );
